@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+}
+
+.flex {
+    border: 2px solid black; 
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-evenly; */
+    justify-content: space-around;
+
+    /*padding: 0 4px; */
+  }
+  
+  .shopping-card {
+    justify-content: space-between;
+    background-color: #61dafb;
+    padding: 20px 30px;
+    margin: 0 0 5px 0;
+  }
+  
+  /* .product-item {
+    padding: 20px;
+  } */
+
+
+
+.cartDiv{
+  /* width:17.5%; */
+  /* width:15rem; */
+  padding: 0.5rem;
+  margin: 0.5rem;
+
+  flex: 15%;
+  /* border: 2px solid black; */
+  border: 1px solid #BFBFBF;
+  background-color: rgb(230, 230, 230);
+  /* box-shadow:  4px 4px 5px #ede2e2; */
+  box-shadow: 0 4px 4px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
