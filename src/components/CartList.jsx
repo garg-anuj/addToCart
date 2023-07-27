@@ -81,5 +81,4 @@ const CartList =({cartSrc})=>{
     </>
 } 
 
-
 export default CartList;

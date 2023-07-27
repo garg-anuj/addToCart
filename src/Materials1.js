@@ -25,7 +25,7 @@ const Materials =[
         name: 'Security Camera',
         category: 'CCTV',
         seller: 'Camron LTD',
-        price: 4000
+        price: 4000,
       },
       {
         url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9e8Axt-h9q8EIybKfjGzbkIWJAr50_BX7Q&usqp=CAU',
